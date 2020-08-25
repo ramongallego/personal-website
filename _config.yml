@@ -49,7 +49,7 @@ projects:
 topics:
 
   - name: eDNA
-  image_url: https://repository-images.githubusercontent.com/48446965/82279900-eee7-11e9-8fe0-d7e13c0a43d8
+  
   
   - name: Shiny
     web_url: https://github.com/topics/shiny
