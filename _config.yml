@@ -28,8 +28,8 @@ projects:
     projects:
     # - repo-name
 
-social_media: 
-  twitter: pollicipes
+#social_media: 
+  # twitter: pollicipes
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -39,7 +39,7 @@ social_media:
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
- stackoverflow: 5854569/ramon
+  # stackoverflow: 5854569/ramon
   # telegram: your_username
   # 
   # unsplash: your_username
