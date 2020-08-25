@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -38,14 +38,14 @@ projects:
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-   stackoverflow: https://stackoverflow.com/users/5854569/ramon
+  # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: @pollicipes
+  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
+  
 topics:
 
   - name: eDNA
